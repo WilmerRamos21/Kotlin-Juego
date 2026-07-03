@@ -50,15 +50,6 @@ El núcleo del videojuego está estructurado de forma modular bajo el paquete `c
 
 ---
 
-## 📸 Capturas de Pantalla / Demostración
-
-| Pantalla de Inicio | Interfaz del Juego (Gameplay) |
-| :---: | :---: |
-| ![Inicio](https://via.placeholder.com/200x400.png?text=Menu+Activity) | ![Gameplay](https://via.placeholder.com/200x400.png?text=Game+View+Kotlin) |
-
-*(Nota: Reemplaza estos enlaces de marcadores de posición con las capturas de pantalla reales de tu emulador o dispositivo físico).*
-
----
 
 ## 🔧 Instalación y Ejecución
 
